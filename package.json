@@ -1,0 +1,26 @@
+{
+  "name": "get-user-media-test",
+  "version": "1.0.0",
+  "description": "GetUserMedia test app with OpenTok",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhainer/get-user-media-test.git"
+  },
+  "keywords": [
+    "OpenTok",
+    "GetUserMedia"
+  ],
+  "author": "rhainer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhainer/get-user-media-test/issues"
+  },
+  "homepage": "https://github.com/rhainer/get-user-media-test#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
